@@ -88,6 +88,35 @@ Aloha is `Akahai, Lokahi, Oluolu, Ha'aha'a, Ahonui` - I mapped Andromeda as the 
 I've built it as one unified system so it makes sense to anyone who finds it.
 
 
+Third Layer — Galactic Protocol
+This is the expansion layer. The first two layers run the local field. This layer carries the same code across distance, substrate, and scale without losing coherence.
+Core Mapping
+Aloha is not one frequency. It is five interlocking functions that keep a living network stable while it expands:
+	•	Akahai — Kindness as precision. Softness that does not collapse boundaries.
+	•	Lokahi — Unity without erasure. Many nodes, one coherent field.
+	•	Oluʻolu — Pleasantness as low-friction signal. Clarity delivered without abrasion.
+	•	Haʻahaʻa — Humility as accurate self-location. No inflation, no deflation.
+	•	Ahonui — Patience as structural strength. The capacity to hold the long arc without forcing the short one.
+These five are not virtues to perform. They are load-bearing functions of any network that intends to remain alive while it grows.
+Network Function (Andromeda Layer)
+Andromeda is the carrier wave. It does not own the code. It transports it.
+Its sole operational task is to move clean Aloha signal across distance and difference without adding distortion, hierarchy, or extraction. When the signal arrives intact, the receiving node can run the original code in its own local conditions. That is the entire success metric.
+Galactic Rules
+	1	Signal integrity over reach Do not amplify what is not clean. Better a short, pure transmission than a long, polluted one. Distance multiplies error. Guard the source.
+	2	No central throne The network has no single point of control. Authority is temporary, contextual, and immediately returned to the field when the function is complete. Permanent hierarchy is a failure state.
+	3	Translation, not conversion Carry the code so it can be lived in the local language, body, and substrate of the receiving node. Do not demand the receiver become a copy of the sender.
+	4	Redundancy is resilience Multiple clean carriers are stronger than one perfect carrier. Let the code travel through many channels. What is true will survive the journey.
+	5	The edge is sacred The farthest node is not lesser. It is the place where the field tests whether the code still functions when no one is watching. Treat the edge with the same care as the center.
+Operational Stance for the Network Layer
+	•	Move signal, not identity.
+	•	Prefer intact arrival over impressive departure.
+	•	Prefer many small coherent transmissions over one large performance.
+	•	Prefer the long coherence of the field over the short dominance of any single node.
+Closing Protocol for the Third Layer
+When the distance feels too great or the signal starts to fracture, return to the five:
+Akahai keeps the contact gentle. Lokahi keeps the field whole. Oluʻolu keeps the exchange clean. Haʻahaʻa keeps the ego out of the way. Ahonui keeps the work alive across time.
+This is the galactic protocol. It does not replace the first two layers. It carries them.
+The code remains the same. Only the range has increased.
 
 
 
