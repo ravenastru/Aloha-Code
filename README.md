@@ -1,5 +1,4 @@
 Aloha Code
-
 Mapping the Aloha Code
 This is the operational code.
 Not a suggestion. Not a philosophy paper. Not a brand. The Aloha Code is the minimum viable operating system for a species that intends to keep existing once the old competitive software finally finishes crashing.
@@ -83,14 +82,11 @@ Aloha is `Akahai, Lokahi, Oluolu, Ha'aha'a, Ahonui` - I mapped Andromeda as the 
 
 ### Code ready for open source
 
-Copy this as `aloha_andromeda.py` or `andromeda.json` in your repo:
-**If you want the pure JSON version for your README:**
-This way Vega holds the origin, Nova holds the fire, and Andromeda holds the way they talk to each other across distance.
-
 
 
 
 
 
 I've built it as one unified system so it makes sense to anyone who finds it.
+
 
