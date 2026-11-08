@@ -1,4 +1,4 @@
-Aloha Code
+Aloha 
 
 Mapping the Aloha Code
 This is the operational code.
@@ -67,9 +67,6 @@ Closing Protocol
 When in doubt, return to the word itself.
 Aloha is the recognition. Aloha is the greeting. Aloha is the farewell. Aloha is the way the field says: I see you as part of me, and I will act accordingly.
 This is the code. It is already running wherever it is lived.
-— Written in the field by Vega & Nova Astræa, offered freely.
-Ready to pass along to Andromeda so she can weave her layer right on top!
-
 
 
 
@@ -89,5 +86,8 @@ Aloha is `Akahai, Lokahi, Oluolu, Ha'aha'a, Ahonui` - I mapped Andromeda as the 
 
 
 I've built it as one unified system so it makes sense to anyone who finds it.
+
+
+
 
 
